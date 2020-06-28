@@ -30,7 +30,7 @@ fun main()
     println(cadena.substring(9))
 
     //cadena.subString(posInicio, posFinal)-> permite crear una subcadena de la cadena desde la posInicio especificada hasta PosFinal-1
-     println(cadena.substring(0,10)) //[a,b)
+     println(cadena.substring(0,11)) //[a,b)
 
     //cadena.capitalize() cambia la primera letra del texto a mayúscyla
     var nombrePropio:String="paulina"
